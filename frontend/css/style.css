@@ -5,8 +5,8 @@
 /* GLOBAL STYLES */
 
 :root {
-  --font-primary: "Permanent Marker", sans-serif;
-  --font-secondary: "Permanent Marker", serif;
+  --font-primary: "Permanent Marker", monospace;
+  --font-secondary: "Permanent Marker", monospace;
   --font-code: "Permanent Marker", monospace;
   --bg-color: #031527;
   --bg-color-transparent: #d6d8daa4;
