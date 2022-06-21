@@ -6,13 +6,13 @@
 
 :root {
   --font-primary: "Permanent Marker", sans-serif;
-  --font-secondary: "Arvo", serif;
-  --font-code: "Roboto", monospace;
+  --font-secondary: "Permanent Marker", serif;
+  --font-code: "Permanent Marker", monospace;
   --bg-color: #00163f;
   --bg-color-transparent: #00163f80;
-  --font-color: #ffffff;
+  --font-color: #180a0a;
   --btn-bg-color: #ffffff;
-  --accent-color: #be7efe;
+  --accent-color: #535353;
   --header-shadow: var(--accent-color) 0px 0px 5px;
   --card-shadow: var(--accent-color) 0px 0px 20px;
 }
